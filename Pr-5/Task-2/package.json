@@ -1,0 +1,12 @@
+{
+  "name": "task2",
+  "version": "1.0.0",
+  "main": "script1.js",
+  "type": "module", 
+  "scripts": {
+    "start": "node script1.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
